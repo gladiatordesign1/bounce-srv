@@ -6,27 +6,9 @@
     "Entered": ""
   },
   {
-    "Server": "abs2812",
-    "Isp": "svsv.rubiate.eu.com",
-    "Results": "5152 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
-    "Entered": "2024-02-11 04:16:10"
-  },
-  {
-    "Server": "abs3554",
-    "Isp": "svsdvsv.rubiate.uk.com",
-    "Results": "3620 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
-    "Entered": "2024-02-11 04:16:10"
-  },
-  {
-    "Server": "abs3412",
-    "Isp": "svsdvsv.rubiate.us.com",
-    "Results": "10060 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
-    "Entered": "2024-02-11 04:16:10"
-  },
-  {
-    "Server": "abs3992",
-    "Isp": "svsdvsv.rubiate.sa.com",
-    "Results": "50 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
-    "Entered": "2024-02-11 04:16:10"
+    "Server": "abs2285",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "",
+    "Entered": "2024-02-11 04:16:09"
   }
 ]
