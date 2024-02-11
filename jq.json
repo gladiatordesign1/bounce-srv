@@ -1,0 +1,128 @@
+[
+  {
+    "Server": "",
+    "Isp": "",
+    "Results": "",
+    "Entered": ""
+  },
+  {
+    "Server": "abs1908",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:07"
+  },
+  {
+    "Server": "abs2365",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "1 recipient in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:07"
+  },
+  {
+    "Server": "abs2513",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "1 recipient in 1 queue deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:08"
+  },
+  {
+    "Server": "abs2812",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:08"
+  },
+  {
+    "Server": "abs3260",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:08"
+  },
+  {
+    "Server": "abs3412",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:09"
+  },
+  {
+    "Server": "abs3466",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "12 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:10"
+  },
+  {
+    "Server": "abs3672",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 10 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:10"
+  },
+  {
+    "Server": "abs3747",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 6 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:11"
+  },
+  {
+    "Server": "abs3776",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:11"
+  },
+  {
+    "Server": "abs3787",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "13 recipients in 9 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:10"
+  },
+  {
+    "Server": "abs3807",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:11"
+  },
+  {
+    "Server": "abs3823",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:11"
+  },
+  {
+    "Server": "abs3868",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "",
+    "Entered": "2024-02-10 03:24:15"
+  },
+  {
+    "Server": "abs3899",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "1 recipient in 9 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:16"
+  },
+  {
+    "Server": "abs3914",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 9 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:16"
+  },
+  {
+    "Server": "abs3922",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "2121 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:17"
+  },
+  {
+    "Server": "abs3957",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 9 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:17"
+  },
+  {
+    "Server": "abs3977",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 5 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:17"
+  },
+  {
+    "Server": "abs3992",
+    "Isp": "gmail.com,googlemail.com",
+    "Results": "0 recipients in 4 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-10 03:24:18"
+  }
+]
