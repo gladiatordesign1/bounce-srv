@@ -4,5 +4,89 @@
     "Isp": "",
     "Results": "",
     "Entered": ""
+  },
+  {
+    "Server": "abs3024",
+    "Isp": "gmail.com",
+    "Results": "2735 recipients in 4 queues deleted.",
+    "Entered": "2024-02-11 09:22:15"
+  },
+  {
+    "Server": "abs3024",
+    "Isp": "gmail.com",
+    "Results": "107 recipients in 4 queues deleted.",
+    "Entered": "2024-02-11 09:31:45"
+  },
+  {
+    "Server": "abs3971",
+    "Isp": "gmail.com",
+    "Results": "149 recipients in 3 queues deleted.",
+    "Entered": "2024-02-11 09:36:08"
+  },
+  {
+    "Server": "abs3971",
+    "Isp": "gmail.com",
+    "Results": "0 recipients in 3 queues deleted.",
+    "Entered": "2024-02-11 09:39:19"
+  },
+  {
+    "Server": "abs3908",
+    "Isp": "gmail.com",
+    "Results": "0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-11 09:44:09"
+  },
+  {
+    "Server": "abs3908",
+    "Isp": "gmail.com",
+    "Results": "30 recipients in 9 queues deleted.",
+    "Entered": "2024-02-11 09:48:09"
+  },
+  {
+    "Server": "abs3971",
+    "Isp": "nbv40.bvc.vbn39.pickets.eu.com,los64.ius61.trezs62.roulade.eu.com",
+    "Results": "0 recipients in 0 queues deleted. 6 recipients in 3 queues deleted.",
+    "Entered": "2024-02-11 09:49:42"
+  },
+  {
+    "Server": "abs3908",
+    "Isp": "nbv40.bvc.vbn39.pickets.eu.com,los64.ius61.trezs62.roulade.eu.com",
+    "Results": "0 recipients in 8 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-11 09:49:42"
+  },
+  {
+    "Server": "abs3971",
+    "Isp": "nbv40.bvc.vbn39.pickets.eu.com,los64.ius61.trezs62.roulade.eu.com",
+    "Results": "0 recipients in 0 queues deleted. 8 recipients in 3 queues deleted.",
+    "Entered": "2024-02-11 10:29:18"
+  },
+  {
+    "Server": "abs3908",
+    "Isp": "nbv40.bvc.vbn39.pickets.eu.com,los64.ius61.trezs62.roulade.eu.com",
+    "Results": "2 recipients in 1 queue deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-11 10:29:19"
+  },
+  {
+    "Server": "abs4434",
+    "Isp": "gmail.com",
+    "Results": "6 recipients in 5 queues deleted.",
+    "Entered": "2024-02-11 10:29:55"
+  },
+  {
+    "Server": "abs4434",
+    "Isp": "gmail.com",
+    "Results": "0 recipients in 5 queues deleted.",
+    "Entered": "2024-02-11 10:31:35"
+  },
+  {
+    "Server": "bls9112",
+    "Isp": "gmail.com",
+    "Results": "1213 recipients in 1 queue deleted.",
+    "Entered": "2024-02-11 11:20:44"
+  },
+  {
+    "Server": "bls9112",
+    "Isp": "gmail.com",
+    "Results": "224 recipients in 5 queues deleted.",
+    "Entered": "2024-02-11 11:34:30"
   }
 ]
