@@ -6,123 +6,27 @@
     "Entered": ""
   },
   {
-    "Server": "fad208",
-    "Isp": "att.net",
-    "Results": "1 recipient in 1 queue deleted.",
-    "Entered": "2024-02-11 09:32:34"
+    "Server": "abs2812",
+    "Isp": "svsv.rubiate.eu.com",
+    "Results": "5152 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-11 04:16:10"
   },
   {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "2 of 4 matching queues scheduled. 0 of 2 matching queues scheduled. 0 of 0 matching queues scheduled. 0 of 2 matching queues scheduled. 2 of 4 matching queues scheduled.",
-    "Entered": "2024-02-11 10:42:31"
+    "Server": "abs3554",
+    "Isp": "svsdvsv.rubiate.uk.com",
+    "Results": "3620 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-11 04:16:10"
   },
   {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "6 recipients in 3 queues deleted. 0 recipients in 1 queue deleted. 0 recipients in 0 queues deleted. 4 recipients in 3 queues deleted. 4 recipients in 3 queues deleted.",
-    "Entered": "2024-02-11 10:56:03"
+    "Server": "abs3412",
+    "Isp": "svsdvsv.rubiate.us.com",
+    "Results": "10060 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-11 04:16:10"
   },
   {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "38 recipients in 4 queues deleted. 0 recipients in 2 queues deleted. 0 recipients in 0 queues deleted. 12 recipients in 2 queues deleted. 3 recipients in 4 queues deleted.",
-    "Entered": "2024-02-11 10:45:00"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "63 recipients in 6 queues deleted. 0 recipients in 2 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 3 queues deleted. 0 recipients in 5 queues deleted.",
-    "Entered": "2024-02-11 10:19:51"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "76 recipients in 2 queues deleted. 0 recipients in 1 queue deleted. 0 recipients in 0 queues deleted. 0 recipients in 1 queue deleted. 19 recipients in 2 queues deleted.",
-    "Entered": "2024-02-11 10:24:12"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "sbcglobal.net",
-    "Results": "1 recipient in 1 queue deleted.",
-    "Entered": "2024-02-11 09:32:39"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "1 recipient in 1 queue deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
-    "Entered": "2024-02-11 09:32:29"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "12 recipients in 5 queues deleted. 0 recipients in 1 queue deleted. 0 recipients in 0 queues deleted. 1 recipient in 2 queues deleted. 5 recipients in 4 queues deleted.",
-    "Entered": "2024-02-11 10:18:58"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "Queue(s) resumed. Queue(s) resumed. Queue(s) resumed. Queue(s) resumed. Queue(s) resumed.",
-    "Entered": "2024-02-11 10:42:35"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "752 recipients in 4 queues deleted. 0 recipients in 1 queue deleted. 0 recipients in 0 queues deleted. 241 recipients in 3 queues deleted. 403 recipients in 4 queues deleted.",
-    "Entered": "2024-02-11 10:27:26"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "564 recipients in 2 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 179 recipients in 2 queues deleted. 297 recipients in 2 queues deleted.",
-    "Entered": "2024-02-11 11:00:28"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "710 recipients in 1 queue deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 219 recipients in 1 queue deleted. 378 recipients in 1 queue deleted.",
-    "Entered": "2024-02-11 10:28:35"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "6 recipients in 4 queues deleted. 0 recipients in 1 queue deleted. 0 recipients in 0 queues deleted. 1 recipient in 2 queues deleted. 5 recipients in 4 queues deleted.",
-    "Entered": "2024-02-11 09:54:50"
-  },
-  {
-    "Server": "fad208",
-    "Isp": "juno.com,mybluelight.com,mysite.com,netzero.com,netzero.net",
-    "Results": "Restarting pmta (via systemctl): [ OK ]_",
-    "Entered": "2024-02-11 09:32:56"
-  },
-  {
-    "Server": "abs2265",
-    "Isp": "hotmail.be,hotmail.ca,hotmail.co.uk,hotmail.com,hotmail.de,hotmail.dk,hotmail.es,hotmail.fi,hotmail.fr,hotmail.it,hotmail.nl,hotmail.no,hotmail.se,live.ca,live.co.uk,live.com,live.com.au,live.de,live.dk,live.fr,live.it,live.nl,live.se,msn.com,outlook.at,o",
-    "Results": "0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues del",
-    "Entered": "2024-02-11 03:01:33"
-  },
-  {
-    "Server": "abs2476",
-    "Isp": "hotmail.be,hotmail.ca,hotmail.co.uk,hotmail.com,hotmail.de,hotmail.dk,hotmail.es,hotmail.fi,hotmail.fr,hotmail.it,hotmail.nl,hotmail.no,hotmail.se,live.ca,live.co.uk,live.com,live.com.au,live.de,live.dk,live.fr,live.it,live.nl,live.se,msn.com,outlook.at,o",
-    "Results": "0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues del",
-    "Entered": "2024-02-11 03:01:33"
-  },
-  {
-    "Server": "abs2266",
-    "Isp": "hotmail.be,hotmail.ca,hotmail.co.uk,hotmail.com,hotmail.de,hotmail.dk,hotmail.es,hotmail.fi,hotmail.fr,hotmail.it,hotmail.nl,hotmail.no,hotmail.se,live.ca,live.co.uk,live.com,live.com.au,live.de,live.dk,live.fr,live.it,live.nl,live.se,msn.com,outlook.at,o",
-    "Results": "0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues del",
-    "Entered": "2024-02-11 03:01:32"
-  },
-  {
-    "Server": "abs2365",
-    "Isp": "hotmail.be,hotmail.ca,hotmail.co.uk,hotmail.com,hotmail.de,hotmail.dk,hotmail.es,hotmail.fi,hotmail.fr,hotmail.it,hotmail.nl,hotmail.no,hotmail.se,live.ca,live.co.uk,live.com,live.com.au,live.de,live.dk,live.fr,live.it,live.nl,live.se,msn.com,outlook.at,o",
-    "Results": "0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues del",
-    "Entered": "2024-02-11 03:01:33"
-  },
-  {
-    "Server": "abs2497",
-    "Isp": "hotmail.be,hotmail.ca,hotmail.co.uk,hotmail.com,hotmail.de,hotmail.dk,hotmail.es,hotmail.fi,hotmail.fr,hotmail.it,hotmail.nl,hotmail.no,hotmail.se,live.ca,live.co.uk,live.com,live.com.au,live.de,live.dk,live.fr,live.it,live.nl,live.se,msn.com,outlook.at,o",
-    "Results": "0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues deleted. 0 recipients in 0 queues del",
-    "Entered": "2024-02-11 03:01:34"
+    "Server": "abs3992",
+    "Isp": "svsdvsv.rubiate.sa.com",
+    "Results": "50 recipients in 0 queues deleted. 0 recipients in 0 queues deleted.",
+    "Entered": "2024-02-11 04:16:10"
   }
 ]
