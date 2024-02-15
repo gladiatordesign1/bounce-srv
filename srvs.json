@@ -1,11 +1,11 @@
 [
   {
-    "Server": "abs2513",
+    "Server": "abs3672",
     "Mailer": "Laila Chamlal",
-    "Received": "104688",
-    "Delivered": "94550",
-    "Bounced": "10127",
-    "Hard Bounced": "11",
+    "Received": "148813",
+    "Delivered": "133196",
+    "Bounced": "15603",
+    "Hard Bounced": "14",
     "status": "bounce"
   }
 ]
