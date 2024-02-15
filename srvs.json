@@ -1,24 +1,6 @@
 [
   {
     "Server": "abs2812",
-    "Mailer": "Laila Chamlal",
-    "Received": "65561",
-    "Delivered": "50971",
-    "Bounced": "14549",
-    "Hard Bounced": "41",
-    "status": "bounce"
-  },
-  {
-    "Server": "abs2812",
-    "Mailer": "Ikram Elyoussoufy",
-    "Received": "468",
-    "Delivered": "468",
-    "Bounced": "0",
-    "Hard Bounced": "0",
-    "status": "bounce"
-  },
-  {
-    "Server": "abs2812",
     "Mailer": "Youssef Ayrir",
     "Received": "8858",
     "Delivered": "8725",
