@@ -1,10 +1,47 @@
 [
   {
     "Server": "abs3971",
+    "Mailer": "Laila Chamlal",
+    "Received": "62312",
+    "Delivered": "59217",
+    "Bounced": "3089",
+    "Hard Bounced": "6",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs3971",
+    "Mailer": "Kaoutar Fkih",
+    "Received": "447745",
+    "Delivered": "447003",
+    "Bounced": "738",
+    "Hard Bounced": "4",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs3971",
+    "Mailer": "Ikram Elyoussoufy",
+    "Received": "100",
+    "Delivered": "100",
+    "Bounced": "0",
+    "Hard Bounced": "0",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs3971",
     "Mailer": "Youssef Ayrir",
-    "Received": "69124",
-    "Delivered": "68182",
-    "Bounced": "941",
-    "Hard Bounced": "1"
+    "Received": "73329",
+    "Delivered": "72381",
+    "Bounced": "947",
+    "Hard Bounced": "1",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs3971",
+    "Mailer": "Imad Elmrhari",
+    "Received": "105",
+    "Delivered": "105",
+    "Bounced": "0",
+    "Hard Bounced": "0",
+    "status": "bounce"
   }
 ]
