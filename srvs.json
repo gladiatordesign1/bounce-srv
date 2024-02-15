@@ -1,11 +1,11 @@
 [
   {
-    "Server": "abs3971",
+    "Server": "abs2513",
     "Mailer": "Youssef Ayrir",
-    "Received": "85047",
-    "Delivered": "84030",
-    "Bounced": "1015",
-    "Hard Bounced": "2",
+    "Received": "60673",
+    "Delivered": "57056",
+    "Bounced": "3617",
+    "Hard Bounced": "0",
     "status": "GOOD"
   }
 ]
