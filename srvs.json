@@ -1,19 +1,29 @@
 [
   {
-    "Server": "abs2812",
-    "Mailer": "Youssef Ayrir",
-    "Received": "6753",
-    "Delivered": "6672",
-    "Bounced": "81",
-    "Hard Bounced": "0",
-    "status": "bounce"
-  },
-  {
-    "Server": "YourServerName",
+    "Server": "abs4280",
+    "Mailer": "Laila Chamlal",
+    "Received": "2600",
+    "Delivered": "2529",
+    "Bounced": "70",
+    "Hard Bounced": "1",
     "status": "bounce"
   },
   {
     "Server": "abs4280",
+    "Mailer": "Fatima Zahra SAOUD",
+    "Received": "11808",
+    "Delivered": "11523",
+    "Bounced": "271",
+    "Hard Bounced": "14",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs4280",
+    "Mailer": "Youssef Ayrir",
+    "Received": "14488",
+    "Delivered": "14240",
+    "Bounced": "248",
+    "Hard Bounced": "0",
     "status": "bounce"
   }
 ]
