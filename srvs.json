@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "Server": "abs3971",
+    "Mailer": "Youssef Ayrir",
+    "Received": "69124",
+    "Delivered": "68182",
+    "Bounced": "941",
+    "Hard Bounced": "1"
+  }
+]
