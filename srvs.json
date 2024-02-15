@@ -15,5 +15,13 @@
     "Delivered": "10511",
     "Bounced": "7861",
     "Hard Bounced": "1"
+  },
+  {
+    "Server": "abs4280",
+    "Mailer": "Laila Chamlal",
+    "Received": "23051",
+    "Delivered": "22792",
+    "Bounced": "70",
+    "Hard Bounced": "1"
   }
 ]
