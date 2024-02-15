@@ -1,28 +1,46 @@
 [
   {
-    "Server": "abs4280",
+    "Server": "abs3971",
     "Mailer": "Laila Chamlal",
-    "Received": "2600",
-    "Delivered": "2529",
-    "Bounced": "70",
+    "Received": "62314",
+    "Delivered": "59217",
+    "Bounced": "3091",
+    "Hard Bounced": "6",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs3971",
+    "Mailer": "Kaoutar Fkih",
+    "Received": "447745",
+    "Delivered": "447003",
+    "Bounced": "738",
+    "Hard Bounced": "4",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs3971",
+    "Mailer": "Ikram Elyoussoufy",
+    "Received": "120",
+    "Delivered": "120",
+    "Bounced": "0",
+    "Hard Bounced": "0",
+    "status": "bounce"
+  },
+  {
+    "Server": "abs3971",
+    "Mailer": "Youssef Ayrir",
+    "Received": "76376",
+    "Delivered": "75419",
+    "Bounced": "956",
     "Hard Bounced": "1",
     "status": "bounce"
   },
   {
-    "Server": "abs4280",
-    "Mailer": "Fatima Zahra SAOUD",
-    "Received": "11808",
-    "Delivered": "11523",
-    "Bounced": "271",
-    "Hard Bounced": "14",
-    "status": "bounce"
-  },
-  {
-    "Server": "abs4280",
-    "Mailer": "Youssef Ayrir",
-    "Received": "14488",
-    "Delivered": "14240",
-    "Bounced": "248",
+    "Server": "abs3971",
+    "Mailer": "Imad Elmrhari",
+    "Received": "105",
+    "Delivered": "105",
+    "Bounced": "0",
     "Hard Bounced": "0",
     "status": "bounce"
   }
