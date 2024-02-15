@@ -2,9 +2,9 @@
   {
     "Server": "abs2812",
     "Mailer": "Youssef Ayrir",
-    "Received": "6736",
-    "Delivered": "6664",
-    "Bounced": "72",
+    "Received": "6753",
+    "Delivered": "6672",
+    "Bounced": "81",
     "Hard Bounced": "0",
     "status": "bounce"
   }
