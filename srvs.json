@@ -7,5 +7,9 @@
     "Bounced": "81",
     "Hard Bounced": "0",
     "status": "bounce"
+  },
+  {
+    "Server": "YourServerName",
+    "status": "bounce"
   }
 ]
