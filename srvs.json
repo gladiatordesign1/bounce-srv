@@ -1,53 +1,5 @@
 [
   {
-    "Server": "abs3971",
-    "Mailer": "Youssef Ayrir",
-    "Received": "88850",
-    "Delivered": "87746",
-    "Bounced": "1102",
-    "Hard Bounced": "2"
-  },
-  {
-    "Server": "abs4093",
-    "Mailer": "Youssef Ayrir",
-    "Received": "10925",
-    "Delivered": "10521",
-    "Bounced": "404",
-    "Hard Bounced": "0"
-  },
-  {
-    "Server": "abs4280",
-    "Mailer": "Youssef Ayrir",
-    "Received": "32217",
-    "Delivered": "31948",
-    "Bounced": "269",
-    "Hard Bounced": "0"
-  },
-  {
-    "Server": "abs3672",
-    "Mailer": "Youssef Ayrir",
-    "Received": "17537",
-    "Delivered": "15882",
-    "Bounced": "1654",
-    "Hard Bounced": "1"
-  },
-  {
-    "Server": "abs4211",
-    "Mailer": "Youssef Ayrir",
-    "Received": "3812",
-    "Delivered": "422",
-    "Bounced": "3390",
-    "Hard Bounced": "0"
-  },
-  {
-    "Server": "abs4545",
-    "Mailer": "Youssef Ayrir",
-    "Received": "1995",
-    "Delivered": "1367",
-    "Bounced": "628",
-    "Hard Bounced": "0"
-  },
-  {
     "Server": "abs4530",
     "Mailer": "Youssef Ayrir",
     "Received": "3182",
