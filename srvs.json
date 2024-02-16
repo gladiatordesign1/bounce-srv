@@ -86,5 +86,13 @@
     "Delivered": "36",
     "Bounced": "0",
     "Hard Bounced": "0"
+  },
+  {
+    "Server": "abs3527",
+    "Mailer": "Youssef Ayrir",
+    "Received": "55",
+    "Delivered": "55",
+    "Bounced": "0",
+    "Hard Bounced": "0"
   }
 ]
